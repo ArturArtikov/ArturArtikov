@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.kaggle.com/arturartikov">
-    <img src="https://img.shields.io/badge/kaggle-cyan?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+    <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </div>
 
