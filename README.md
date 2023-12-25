@@ -3,9 +3,9 @@
   <h3>Data Scientist from Moscow</h3> 
 </div>
 
-![
+
 <div id="socials" align="center">
-  <a href="telegram-url">
+  <a href="https://t.me/ArturArtikov">
     <img src="https://img.shields.io/badge/Telegram-blue&logo=Telegram" alt="Telegram">
   </a>
-</div>]
+</div>
