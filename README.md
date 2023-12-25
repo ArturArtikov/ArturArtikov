@@ -2,4 +2,8 @@
 
 Информация о профиле в процессе создания
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue&logo=Telegram)](https://t.me/ArturArtikov)
+<div id="socials" align="center">
+  <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue&logo=Telegram" alt="Telegram">
+  </a>
+</div>
