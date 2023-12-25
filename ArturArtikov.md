@@ -31,7 +31,7 @@ Good:
 ~~Python~~, ~~Pandas~~, ~~Numpy~~, Matplotlib, Seaborn, BeautifulSoup4, requests, ~~Sklearn~~, Category-Encoders, ~~Markdown~~, ~~PostgreSql~~
 
 a little:
-Plotly, psycopg2, Nltk, GeoPy
+~~Plotly~~, psycopg2, Nltk, GeoPy
 
 Части:
 1. Загрузка данных и работа с данными
