@@ -13,4 +13,4 @@
 ![](https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png)
 
 Profile in Process
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg", title="python", width="40", height="40">
