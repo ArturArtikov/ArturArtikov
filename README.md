@@ -1,6 +1,8 @@
-# Привет, меня зовут Артур Артиков
+<div id="header" align="center">
+  <h1>Hi there, I'm Artur Artikov!</h1>
+  <h3>Data Scientist from Moscow</h3> 
+</div>
 
-Информация о профиле в процессе создания
 
 <div id="socials" align="center">
   <a href="telegram-url">
