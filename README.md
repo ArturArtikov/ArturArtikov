@@ -6,14 +6,14 @@
  <a href="https://t.me/ArturArtikov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
  </a>
- <a href="mailto: arturartikov@outlook.com">
-    <img src="https://img.shields.io/badge/outlook-white?style=for-the-badge&logo=gmail&logoColor=blue" alt="Outlook">
+ <a href="https://github.com/ArturArtikov">
+   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
  </a>
 
 
 <div id="socials" align="center">
 
-  <img src="https://icons8.ru/icon/ut6gQeo5pNqf/microsoft-outlook-2019" title="outlook" width="40" height="40" />&nbsp;
+  
  
 </div>
 
