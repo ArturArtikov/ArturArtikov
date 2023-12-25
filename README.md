@@ -10,7 +10,13 @@
   </a>
 </div>
 
-![](https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png)
+<img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png" width="40" height="40">
 
 Profile in Process
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40" />&nbsp;
+
+Good:
+Python, Pandas, Numpy, Matplotlib, Seaborn, BeautifulSoup4, requests, Sklearn, Category-Encoders 
+
+a little:
+Plotly, psycopg2, Nltk, GeoPy
