@@ -1,4 +1,4 @@
-# Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png" width="10" height="10">
+# Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png" width="60" height="60">
 
 
 
