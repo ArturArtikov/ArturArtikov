@@ -51,6 +51,6 @@
 <img src="https://avatars.githubusercontent.com/u/1385808?s=280&v=4" title="geopy" width="40" height="40" />&nbsp;
 
 ## Контакты
-Если вы хотите связаться со мной, то вы можете написать мне на [почту](arturartikov@outlook.com) или написать в [Telegram](https://t.me/ArturArtikov)
+Если вы хотите связаться со мной, то вы можете написать мне на [почту](arturartikov@outlook.com) или в [Telegram](https://t.me/ArturArtikov)
 
 Дата последнего обновления информации: 26.12.2023
