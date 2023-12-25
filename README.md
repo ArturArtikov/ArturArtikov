@@ -5,10 +5,10 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/ArturArtikov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram">
   </a>
   <a href="https://github.com/ArturArtikov">
-    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
   </a>
   <a href="https://www.kaggle.com/arturartikov">
     <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=cyan" alt="Kaggle">
