@@ -6,7 +6,7 @@
  <a href="https://t.me/ArturArtikov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
  </a>
- <a href="">
+ <a href="mailto: arturartikov@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook">
  </a>
 
