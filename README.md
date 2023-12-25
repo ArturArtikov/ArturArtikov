@@ -13,7 +13,7 @@
   <a href="https://www.kaggle.com/arturartikov">
     <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=cyan" alt="Kaggle">
   </a>
-  <a href="mailto:arturartikov@outlook.com?subject=Вопрос по резюме на GitHub">
+  <a href="mailto:arturartikov@outlook.com">
     <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=red" alt="E-mail">
   </a>
 </div>
