@@ -14,12 +14,13 @@
     <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=cyan" alt="Kaggle">
   </a>
   <a href="mailto:arturartikov@outlook.com">
-    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=mail&logoColor=cyan" alt="E-mail">
+    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=email&logoColor=cyan" alt="E-mail">
   </a>
 </div>
 
 
 Текст
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="40" height="40" />&nbsp;
