@@ -13,7 +13,7 @@
 
 <div id="socials" align="center">
 
-<img src="https://icons8.ru/icon/ut6gQeo5pNqf/microsoft-outlook-2019" title="outlook" width="40" height="40" />&nbsp;
+  <img src="https://icons8.ru/icon/ut6gQeo5pNqf/microsoft-outlook-2019" title="outlook" width="40" height="40" />&nbsp;
  
 </div>
 
