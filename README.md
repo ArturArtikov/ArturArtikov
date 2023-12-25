@@ -3,19 +3,14 @@
   <h3>Junior Data Scientist from Moscow</h3> 
 </div>
 
- <a href="https://t.me/ArturArtikov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
- </a>
- <a href="https://github.com/ArturArtikov">
-   <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
- </a>
-
-
 <div id="socials" align="center">
-
-  
- 
-</div>
+  <a href="https://t.me/ArturArtikov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/ArturArtikov">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+   </a>
+ </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="40" height="40" />&nbsp;
