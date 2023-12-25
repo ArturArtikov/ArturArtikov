@@ -1,7 +1,3 @@
-# Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png" width="60" height="60">
-
-
-
 <div id="header" align="center">
   <h1>Hi there, I'm Artur Artikov!</h1>
   <h3>Junior Data Scientist from Moscow</h3> 
