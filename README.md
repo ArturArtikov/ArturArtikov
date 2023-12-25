@@ -9,8 +9,11 @@
   </a>
   <a href="https://github.com/ArturArtikov">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-   </a>
- </div>
+  </a>
+  <a href="https://www.kaggle.com/arturartikov">
+    <img src="https://img.shields.io/badge/kaggle-cyan?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="40" height="40" />&nbsp;
