@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Artur Artikov!</h1>
-  <h3>Data Scientist from Moscow</h3> 
+  <h3>Junior Data Scientist from Moscow</h3> 
 </div>
 
 
