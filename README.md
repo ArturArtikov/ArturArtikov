@@ -27,7 +27,7 @@ Social networks:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" width="40" height="40" />&nbsp;
 
 Good:
-Python, Pandas, Numpy, Matplotlib, Seaborn, BeautifulSoup4, requests, Sklearn, Category-Encoders 
+~~Python~~, ~~Pandas~~, ~~Numpy~~, Matplotlib, Seaborn, BeautifulSoup4, requests, ~~Sklearn~~, Category-Encoders, ~~Markdown~~, ~~PostgreSql~~
 
 a little:
 Plotly, psycopg2, Nltk, GeoPy
