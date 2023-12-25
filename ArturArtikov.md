@@ -24,6 +24,8 @@ Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/load
 <img src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" title="plotly" width="40" height="40" />&nbsp;
 <img src="https://helve-blog.com/images/icon/matplotlib.png" title="matplotlib" width="40" height="40" />&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NlF-TJs7t4xv02opfzaBDvPrnDTiwDbdLg&usqp=CAU" title="seaborn" width="40" height="40" />&nbsp;
+<img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" title="BeautifulSoup4" width="40" height="40" />&nbsp;
+<img src=""/>
 
 Social networks:
 
