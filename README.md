@@ -5,7 +5,10 @@
 
  <a href="https://t.me/ArturArtikov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+ </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Telegram">
+ </a>
 
 
 <div id="socials" align="center">
