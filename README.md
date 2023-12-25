@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hi there, I'm Artur Artikov!</h1>
-  <h3>Junior Data Scientist from Moscow</h3> 
+  <h1>Привет, меня зовут Артур Артиков!</h1>
+  <h3>Junior Data Scientist из Москвы</h3> 
 </div>
 
 <div id="socials" align="center">
@@ -18,6 +18,7 @@
   </a>
 </div>
 
+## ℹ️ Обо мне:
 
 Текст
 
