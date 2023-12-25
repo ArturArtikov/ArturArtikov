@@ -20,6 +20,7 @@ Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/load
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40" />&nbsp;
 <img src="https://pbs.twimg.com/profile_images/1597302113851285505/uLahwA4q_400x400.jpg" title="sklearn" width="40" height="40" />&nbsp;
+<img src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" title="plotly" width="40" height="40" />&nbsp;
 
 Social networks:
 
