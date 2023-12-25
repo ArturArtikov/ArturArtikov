@@ -21,6 +21,7 @@ Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/load
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="40" height="40" />&nbsp;
 <img src="https://pbs.twimg.com/profile_images/1597302113851285505/uLahwA4q_400x400.jpg" title="sklearn" width="40" height="40" />&nbsp;
 
+<img src="https://drive.google.com/file/d/15DHd-PYMQEdw5IQDr14qlWc7dxYFgp5b/view?usp=drive_link"/>
 Social networks:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" width="40" height="40" />&nbsp;
