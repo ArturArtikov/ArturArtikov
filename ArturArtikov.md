@@ -26,6 +26,8 @@ Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/load
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NlF-TJs7t4xv02opfzaBDvPrnDTiwDbdLg&usqp=CAU" title="seaborn" width="40" height="40" />&nbsp;
 <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" title="BeautifulSoup4" width="40" height="40" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Requests_Python_Logo.png/800px-Requests_Python_Logo.png" title="request" width="40" height="40" />&nbsp;
+<img src="https://www.timescale.com/blog/content/images/size/w1200/2023/10/Screenshot-2023-10-19-at-9.58.23-AM-1-1-1.png" title="request" width="40" height="40" />&nbsp;
+
 <img src=""/>
 
 Social networks:
@@ -34,10 +36,10 @@ Social networks:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" width="40" height="40" />&nbsp;
 
 Good:
-~~Python~~, ~~Pandas~~, ~~Numpy~~, ~~Matplotlib~~, ~~Seaborn~~, ~~BeautifulSoup4~~, ~~requests~~, ~~Sklearn~~, Category-Encoders, ~~Markdown~~, ~~PostgreSql~~
+~~Python~~, ~~Pandas~~, ~~Numpy~~, ~~Matplotlib~~, ~~Seaborn~~, ~~BeautifulSoup4~~, ~~requests~~, ~~Sklearn~~, ~~Markdown~~, ~~PostgreSql~~
 
 a little:
-~~Plotly~~, psycopg2, Nltk, GeoPy
+~~Plotly~~, ~~psycopg2~~, Nltk, GeoPy
 
 Части:
 1. Загрузка данных и работа с данными
