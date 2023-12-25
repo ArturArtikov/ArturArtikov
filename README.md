@@ -13,6 +13,9 @@
   <a href="https://www.kaggle.com/arturartikov">
     <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=cyan" alt="Kaggle">
   </a>
+  <a href="mailto:arturartikov@outlook.com">
+    <img src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=mail&logoColor=cyan" alt="E-mail">
+  </a>
 </div>
 
 
