@@ -39,11 +39,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" title="nltk" width="40" height="40" />&nbsp;
 <img src="https://avatars.githubusercontent.com/u/1385808?s=280&v=4" title="geopy" width="40" height="40" />&nbsp;
 
-Social networks:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" width="40" height="40" />&nbsp;
-
 
 Good:
 ~~Python~~, ~~Pandas~~, ~~Numpy~~, ~~Matplotlib~~, ~~Seaborn~~, ~~BeautifulSoup4~~, ~~requests~~, ~~Sklearn~~, ~~Markdown~~, ~~PostgreSql~~
