@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
  </a>
  <a href="">
-    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Outlook&logoColor=white" alt="Outlook">
  </a>
 
 
