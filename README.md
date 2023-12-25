@@ -3,12 +3,15 @@
   <h3>Junior Data Scientist from Moscow</h3> 
 </div>
 
+ <a href="https://t.me/ArturArtikov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram">
+  </a>
+
 
 <div id="socials" align="center">
-  <a href="https://t.me/ArturArtikov">
-    <img src="https://img.shields.io/badge/Telegram-blue&logo=Telegram" alt="Telegram">
-  </a>
+ 
 </div>
+
 
 Profile in Process <img src="https://cdn.icon-icons.com/icons2/1489/PNG/512/loadingcircles_102612.png" width="10" height="10">
 
