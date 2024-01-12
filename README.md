@@ -50,7 +50,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" title="nltk" width="40" height="40" />&nbsp;
 <img src="https://avatars.githubusercontent.com/u/1385808?s=280&v=4" title="geopy" width="40" height="40" />&nbsp;
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?arturartikov=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturArtikov&theme=default)
 
 ## 🏫 Образование
 
