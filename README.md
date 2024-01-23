@@ -57,11 +57,11 @@
 <table>
   <tr>
     <th> 
-      SkillFactory
+      SkillFactory <br>
       Курс "Data Scientist"
     </th>
     <th> 
-      *февраль 2023 - май 2024*
+      <i>февраль 2023 - май 2024</i>
     </th>
   </tr>
   <tr>
