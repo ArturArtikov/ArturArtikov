@@ -56,11 +56,16 @@
 
 <table>
   <tr>
-    <th> Образование </th>
-    <th> Место и годы </th>
+    <th> 
+      SkillFactory
+      Курс "Data Scientist"
+    </th>
+    <th> 
+      *февраль 2023 - май 2024*
+    </th>
   </tr>
   <tr>
-    <th> текст </th>
+    <th>  </th>
     <th> текст </th>
   </tr>
   <tr>
