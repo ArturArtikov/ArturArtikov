@@ -3,7 +3,7 @@
   <h3>Junior Data Scientist из Москвы</h3> 
 </div>
 
-![Example 2](https://raw.githubusercontent.com/arturartikov/github-profile-header-generator/main/social/examples/example-2.png)
+![Example 2](https://raw.githubusercontent.com/arturartikov)
 
 
 <div id="socials" align="center">
