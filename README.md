@@ -5,9 +5,9 @@
 
 
 [<center> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arturartikov@outlook.com)
-[<center> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArturArtikov)
-[<center> ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arturartikov) 
-[<center> ![GitHub Portfolio](https://img.shields.io/badge/github%20portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturArtikov/Data-Science-Projects)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArturArtikov)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arturartikov) 
+[![GitHub Portfolio](https://img.shields.io/badge/github%20portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturArtikov/Data-Science-Projects)
 
 
 ## ℹ️ Обо мне
