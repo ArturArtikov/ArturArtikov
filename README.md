@@ -43,6 +43,12 @@
 ![Nltk](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### Инструменты и ПО
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturArtikov&theme=default)
 
 ## 🏫 Образование
