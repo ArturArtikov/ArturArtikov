@@ -5,13 +5,10 @@
 
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arturartikov@outlook.com)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github%20portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArturArtikov)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arturartikov) 
+[![GitHub](https://img.shields.io/badge/github%20portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturArtikov/Data-Science-Projects)
 
-[//]: mailto:arturartikov@outlook.com
-[//]: https://t.me/ArturArtikov
-[//]: https://www.kaggle.com/arturartikov
 
 ## ℹ️ Обо мне
 Я начинающий Data Scientist из Москвы. Мое знакомство с IT-миром началось еще со школы, когда я начал изучать HTML и CSS на дополнительных курсах. После окончания школы я поступил на направление "Прикладная математика" в Московский автомобильно-дорожный государственный технический университет (МАДИ). В это же время я познакомился с языком программирования Python🐍 и понял, что хочу развиваться именно с ним. Параллельно с обучением в университете я стал учеником онлайн-школы цифровых профессий SkillFactory, где я начал изучать направление Data Science. На сегодняшний день я продолжаю свое обучение и в моем портфолио уже есть несколько качественно выполненных учебных проектов. 
