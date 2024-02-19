@@ -3,6 +3,9 @@
   <h3>Junior Data Scientist из Москвы</h3> 
 </div>
 
+
+![[Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arturartikov@outlook.com)
+
 <div id="socials" align="center">
   <a href="https://t.me/ArturArtikov">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram">
