@@ -3,6 +3,7 @@
   <h3>Junior Data Scientist из Москвы</h3> 
 </div>
 
+![Header](./github-header-image.png)
 
 <div id="socials" align="center">
   
