@@ -43,19 +43,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArturArtikov&theme=default)
 
-## 🏫 Образование
-
-<table>
-  <tr>
-    <th> 
-      SkillFactory <br>
-      Курс "Data Scientist"
-    </th>
-    <th> 
-      <i>февраль 2023 - май 2024</i>
-    </th>
-  </tr>
-</table>
 
 
 Дата последнего обновления информации: 19.02.2024
