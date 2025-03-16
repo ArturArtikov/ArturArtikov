@@ -1,11 +1,11 @@
-![Header](./Header_16_03_202.png)
+![Header](./Header_16_03_2025.png)
 
 <div id="socials" align="center">
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArturArtikov)
   [![Mail](https://img.shields.io/badge/Mail-0077FF?style=for-the-badge)](mailto:artikovartur@internet.ru)
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arturartikov) 
-  [![GitHub Portfolio](https://img.shields.io/badge/github%20portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturArtikov/Portfolio)
+  [![Data Science Projects Library](https://img.shields.io/badge/Data%20Science%20Projects%20Library-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArturArtikov/Portfolio)
   
 </div>
 
