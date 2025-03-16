@@ -54,7 +54,7 @@
 
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23ffcc00.svg?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23189fdd.svg?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-%234b4b4d.svg?style=for-the-badg)
+![LightGBM](https://img.shields.io/badge/LightGBM-%234b4b4d.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![LightAutoML](https://img.shields.io/badge/LightAutoML-%2367cc00.svg?style=for-the-badge)
 
