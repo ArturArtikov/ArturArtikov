@@ -60,21 +60,11 @@
 
 ![NLTK](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
 ![TRANSFORMERS](https://img.shields.io/badge/TRANSFORMERS-%23ffd21e.svg?style=for-the-badge)
-![GENSIM](https://img.shields.io/badge/GENSIM-%235F9EA0.svg?style=for-the-badge&logo=gensim&logoColor=#4285F4)
+![GENSIM](https://img.shields.io/badge/GENSIM-%23001862.svg?style=for-the-badge)
 
 ![Requests](https://img.shields.io/badge/Requests-%23636970.svg?style=for-the-badge)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23ffffff.svg?style=for-the-badge)
 ![GeoPy](https://img.shields.io/badge/GeoPy-%23EEE8AA.svg?style=for-the-badge&logo=google-earth&logoColor=#4285F4)
 
 
-
-
-
-
-
-TRANSFORMERS
-gensim
-
-
-
-Last Update: 16.03.2025
+__Last Update: 16.03.2025__
