@@ -42,16 +42,40 @@
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231F6F70.svg?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23ffffff.svg?style=for-the-badge)
-![Psycopg2](https://img.shields.io/badge/psycopg2-%23fcd703.svg?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-%233F51B5.svg?style=for-the-badge&logo=Statsmodels&logoColor=%white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![CatBoost](https://img.shields.io/badge/CatBoost-%23ffcc00.svg?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23189fdd.svg?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-%234b4b4d.svg?style=for-the-badge&logo=LightGBM&logoColor=%white)
+![LightAutoML](https://img.shields.io/badge/LightAutoML-%234b4b4d.svg?style=for-the-badge&logo=LightAutoML&logoColor=%67cc00)
+
 ![Requests](https://img.shields.io/badge/Requests-%23636970.svg?style=for-the-badge)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23ffffff.svg?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NLTK](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
 ![GeoPy](https://img.shields.io/badge/GeoPy-%23EEE8AA.svg?style=for-the-badge&logo=google-earth&logoColor=#4285F4)
-![Category-Encoders](https://img.shields.io/badge/category--encoders-%2300BFFF.svg?style=for-the-badge)
-![Nltk](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
+
+
+xgboost
+lightgbm
+LightAutoML
+
+
+TRANSFORMERS
+gensim
+
 
 
 Last Update: 16.03.2025
