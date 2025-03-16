@@ -54,23 +54,22 @@
 
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23ffcc00.svg?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23189fdd.svg?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-%234b4b4d.svg?style=for-the-badge&logo=LightGBM&logoColor=%white)
-![LightAutoML](https://img.shields.io/badge/LightAutoML-%2367cc00.svg?style=for-the-badge&logo=LightAutoML&logoColor=%67cc00)
+![LightGBM](https://img.shields.io/badge/LightGBM-%234b4b4d.svg?style=for-the-badg)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LightAutoML](https://img.shields.io/badge/LightAutoML-%2367cc00.svg?style=for-the-badge)
+
+![NLTK](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
+![TRANSFORMERS](https://img.shields.io/badge/TRANSFORMERS-%23ffd21e.svg?style=for-the-badge)
+![GENSIM](https://img.shields.io/badge/GENSIM-%235F9EA0.svg?style=for-the-badge&logo=gensim&logoColor=#4285F4)
 
 ![Requests](https://img.shields.io/badge/Requests-%23636970.svg?style=for-the-badge)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23ffffff.svg?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NLTK](https://img.shields.io/badge/nltk-%235F9EA0.svg?style=for-the-badge)
 ![GeoPy](https://img.shields.io/badge/GeoPy-%23EEE8AA.svg?style=for-the-badge&logo=google-earth&logoColor=#4285F4)
 
 
 
 
 
-
-xgboost
-lightgbm
-LightAutoML
 
 
 TRANSFORMERS
