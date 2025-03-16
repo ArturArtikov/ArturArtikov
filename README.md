@@ -10,15 +10,18 @@
 </div>
 
 
-## ℹ️ About me
+## Summary
 
 
 
-## 💻 Технологический стек
+## Programming languages
 
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 ![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 
 ### Python-библиотеки
 
