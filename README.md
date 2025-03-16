@@ -41,4 +41,4 @@
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 
 
-Дата последнего обновления информации: 19.02.2024
+Last Update: 16.03.2025
