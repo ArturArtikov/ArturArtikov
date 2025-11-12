@@ -12,7 +12,7 @@
 
 ## Summary
 
-I am a Data Scientist with 3+ years of experience in machine learning and data analytics, as well as 4+ years of Python development. I have participated in 5 hackathons and 10 case championships, and I placed 3rd in the AutoML in Practice course by Alfa-Bank. 
+I am a Data Scientist with 4+ years of experience in machine learning and data analytics, as well as 4+ years of Python development. I have participated in 5 hackathons and 10 case championships, and I placed 3rd in the AutoML in Practice course by Alfa-Bank. 
 
 I organized Alfa Hack, Hack&Change, and the first blockchain case championship in Russia - Barter x Change. I work with a classical ML stack, have experience with Big Data tools and interested in Data Engineering, AutoML, and the FinTech and Retail sectors.
 
@@ -82,4 +82,4 @@ I organized Alfa Hack, Hack&Change, and the first blockchain case championship i
   ![GeoPy](https://img.shields.io/badge/GeoPy-%23EEE8AA.svg?style=for-the-badge&logo=google-earth&logoColor=#4285F4)
 
 
-__Last Update: 16.03.2025__
+__Last Update: 12.11.2025__
